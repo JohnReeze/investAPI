@@ -55,9 +55,10 @@ API реализован на быстром, удобном и функцион
 * python https://github.com/Tinkoff/invest-python
 
 ## Неофициальные
-* nodejs https://github.com/betslus1/unofficial-tinkoff-invest-api_v2-lazy-sdk-NODEJS
-* php  https://github.com/metaseller/tinkoff-invest-api-v2-php
-* php YII2 https://packagist.org/packages/metaseller/tinkoff-invest-api-v2-yii2
+* [nodejs](https://github.com/betslus1/unofficial-tinkoff-invest-api_v2-lazy-sdk-NODEJS)
+* [php](https://github.com/metaseller/tinkoff-invest-api-v2-php)
+* [php YII2](https://packagist.org/packages/metaseller/tinkoff-invest-api-v2-yii2)
+* [swift](https://github.com/JohnReeze/TinkoffInvestSwiftSDK)
 
 SDK на других языках в процессе разработки.
 
